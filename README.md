@@ -15,13 +15,13 @@ Models tested
   <li>AdaBoostClassifier
 </ul>
 
-Final Choice of Classifier: KNeighborsClassifier
+Final Choice of Classifier: KNeighborsClassifier <br>
 Accuracy Achieved: 96.91%
 
-Data Augmentation
-Data Augmentation is a technique in data analysis to artificially increase the amount of data by adding slightly modified copies of existing data. This is done by allowing small translation, rotation, cropping of the images. Here 1 unit translation is used in all four directions.
+Data Augmentation <br>
+Data Augmentation is a technique in data analysis to artificially increase the amount of data by adding slightly modified copies of existing data. This is done by allowing small translation, rotation, cropping of the images. Here 1 unit translation is used in all four directions. <br>
 Accuracy Achieved: 97.66%
 
-Stacking Models
-A custom two-layer classifier using RandomForest, KNeighbors, and SGDClassifier in the first layer and RandomForest in the second layer (output).
+Stacking Models <br>
+A custom two-layer classifier using RandomForest, KNeighbors, and SGDClassifier in the first layer and RandomForest in the second layer (output).<br>
 Accuracy Achieved: 97.92%
