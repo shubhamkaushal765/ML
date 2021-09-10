@@ -1,5 +1,4 @@
-# ML
-Machine Learning Projects - by Shubham Kaushal
+# Machine Learning Projects - by Shubham Kaushal
 
 ## MNIST handwritten image classifier | Supervised Learning | 2021
 MNIST 784 data is a collection of 70,000 labeled images of handwritten digits from 0 to 9. Each digit is represented by a 28x28 2D array (i.e., 784 columns), and it is divided into training and testing sets (60000 and 10000). This dataset is widely used for training and testing various image processing systems. 
